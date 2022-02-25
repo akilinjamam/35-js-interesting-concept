@@ -7,6 +7,8 @@
 // undefined means any variable which is not been decleared. this is one kind of negetive value too.
 // null. this is also a negetive value
 
+// [] empty array is positve
+// {} empty object is also positive
 
 let x = ' ';
 
